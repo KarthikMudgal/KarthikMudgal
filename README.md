@@ -2,8 +2,11 @@
 <img src="https://media.giphy.com/media/QkNyWvBVpSNRZc9zOI/giphy.gif" width="200" alt="Nagi Seishiro - Blue Lock" />
 
 # `0xunit@terminal:~$ _`
+
 ### *I don't stop when I'm tired*
+
 <img src="https://media.giphy.com/media/QkNyWvBVpSNRZc9zOI/giphy.gif" width="300" alt="Nagi Seishiro - Blue Lock" />
+
 </div>
 
 ---
@@ -27,7 +30,7 @@ $ echo $MOTTO
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 🏆 GitHub Trophies
 
