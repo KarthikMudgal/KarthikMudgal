@@ -1,5 +1,13 @@
-<div align="center"> 
-  <img src="https://media.giphy.com/media/QkNyWvBVpSNRZc9zOI/giphy.gif" width="300" alt="Nagi Seishiro - Blue Lock" /> # `0xunit@terminal:~$ _` ### *I don't stop when I'm tired* [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=B44FFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Future%20Red%20Teamer%20in%20Progress%3B🔐%20Web%20Security%20%7C%20CTF%3B🌍%20Jaipur%2C%20Rajasthan)](https://git.io/typing-svg) 
+<div align="center">
+
+<img src="https://media.giphy.com/media/QkNyWvBVpSNRZc9zOI/giphy.gif" width="300" alt="Nagi Seishiro - Blue Lock" />
+
+# `0xunit@terminal:~$ _`
+
+### *I don't stop when I'm tired*
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=B44FFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Future%20Red%20Teamer%20in%20Progress%3B%F0%9F%94%90%20Web%20Security%20%7C%20CTF%3B%F0%9F%8C%8D%20Jaipur%2C%20Rajasthan)](https://git.io/typing-svg)
+
 </div>
 
 ---
@@ -7,8 +15,10 @@
 ```bash
 $ whoami
   Future Red Teamer in Progress — Jaipur, Rajasthan
+
 $ cat current_mission.txt
   Exploring Ethical Hacking & Vehicle Security
+
 $ echo $MOTTO
   "I don't stop when I'm tired"
 ```
@@ -18,12 +28,12 @@ $ echo $MOTTO
 <table><tr>
   <td align="center"><b>🌐 Web Security</b></td>
   <td align="center"><b>🚩 CTF</b></td>
-  <td align="center"><b>💀 OSINT</b></td>
+  <td align="center"><b>🔭 OSINT</b></td>
 </tr></table>
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
 ## 🏆 GitHub Trophies
 
@@ -74,7 +84,7 @@ $ echo $MOTTO
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/QkNyWvBVpSNRZc9zOI/giphy.gif" width="120"/>
+<img src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="120"/>
 
 *"I don't stop when I'm tired"*
 
