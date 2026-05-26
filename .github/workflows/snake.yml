@@ -8,6 +8,12 @@ on:
     branches:
       - main
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
