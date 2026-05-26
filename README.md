@@ -6,7 +6,7 @@
 
 ### *I don't stop when I'm tired*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=B44FFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Future%20Red%20Teamer%20in%20Progress%3B%F0%9F%94%90%20Web%20Security%20%7C%20CTF%3B%F0%9F%8C%8D%20Jaipur%2C%20Rajasthan)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/QkNyWvBVpSNRZc9zOI/giphy.gif" width="300" alt="Nagi Seishiro - Blue Lock" />
 
 </div>
 
@@ -28,7 +28,7 @@ $ echo $MOTTO
 <table><tr>
   <td align="center"><b>🌐 Web Security</b></td>
   <td align="center"><b>🚩 CTF</b></td>
-  <td align="center"><b>🔭 OSINT</b></td>
+  <td align="center"><b>💀 OSINT</b></td>
 </tr></table>
 
 ## 🛠 Tech Stack
