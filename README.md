@@ -21,6 +21,9 @@ $ cat current_mission.txt
 
 $ echo $MOTTO
   "I don't stop when I'm tired"
+
+$ cat contact.txt
+  Email: karthikmudgal12@gmail.com
 ```
 
 ## ⚔️ Arsenal
