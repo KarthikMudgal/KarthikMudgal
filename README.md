@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/QkNyWvBVpSNRZc9zOI/giphy.gif" width="300" alt="Nagi Seishiro - Blue Lock" />
+<img src="assets/nagi_gif.gif" width="300" alt="Nagi Seishiro - Blue Lock" />
 
 # `0xunit@terminal:~$ _`
 
